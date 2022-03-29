@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel src/index.pug",
+    "build": "parcel build src/index.pug"
+  },
+  "devDependencies": {
+    "@parcel/transformer-less": "2.3.2",
+    "@parcel/transformer-pug": "2.3.2"
+  }
+}
